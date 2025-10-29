@@ -355,10 +355,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👨‍💻 Developer
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**Mohammad Reza Mirnoori**
+- GitHub: [@mohamma8d1](https://github.com/mohamma8d1)
+- Email: mmmirnoori@gmail.com
+- LinkedIn: [mohammad reza mirnoori]([https://linkedin.com/in/y](https://www.linkedin.com/in/mohammad-reza-mirnoori-031002331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 **Developed for:** Andia Company Internship Technical Assessment
 

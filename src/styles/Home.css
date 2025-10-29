@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;600;700&display=swap");
+@import "tailwindcss";
+
+body, html, #root, .app {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: "Vazirmatn", sans-serif;
+    background-color: #0f0823;
+    overflow-x: hidden;
+}       
+
+
+@theme {
+  --color-primary: #8B5CF6;
+  --font-vazir: "Vazirmatn", sans-serif;
+}
+
+@layer utilities {
+  .scrollbar-hide {
+    scrollbar-width: none; 
+    -ms-overflow-style: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
